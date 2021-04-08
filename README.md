@@ -24,6 +24,6 @@ Pre-requisites
 * Install the requirements  : " python -m pip install -r requirements.txt "
 
 ### Executing
-* "python app.py"
+*  Go to the root Directory of the project and execute "python app.py" in the terminal
 * Open the [local host](http://localhost:5000/) in your web browser
-* It should generally be hosted in the localhost:5000
+
