@@ -20,7 +20,7 @@ The Dependencies are also listed in the [Requirements.txt](requirements.txt) fil
 
 ### Installations
 Pre-requisites
-* Set up the python environments.[help](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+* Set up the python environments. [__help](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)]
 * Install the requirements  : " python -m pip install -r requirements.txt "
 
 ### Executing
