@@ -8,9 +8,9 @@ This project is about understanding of what is actually fake news and propose an
 This Project is aimed to  predict whether the news is fake or real.
 
 ## Tech Stack
-*Framework : FLASK
-*Frontend  : html/css
-*Backend   :python
+* Framework : FLASK
+* Frontend  : html/css
+* Backend   :python
 
 ## Getting Started
 
@@ -20,8 +20,8 @@ The Dependencies are also listed in the [Requirements.txt](requirements.txt) fil
 
 ### Installations
 Pre-requisites
-*Set up the python environments.[help](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
-*Install the requirements  : " python -m pip install -r requirements.txt "
+* Set up the python environments.[help](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+* Install the requirements  : " python -m pip install -r requirements.txt "
 
 ### Executing
 * "python app.py"
