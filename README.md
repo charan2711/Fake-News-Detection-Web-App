@@ -4,7 +4,7 @@
 “Fake news” is a term that has come to mean different things to different people. At its core, we are defining “fake news” as those news stories that are false: the story itself is fabricated, with no verifiable facts, sources or quotes.
 This project is about understanding of what is actually fake news and propose an efficient way to detect them using the machine learning.
 
-# AIM
+# Aim
 This Project is aimed to  predict whether the news is fake or real.
 
 ## Tech Stack
